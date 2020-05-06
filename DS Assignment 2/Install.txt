@@ -1,0 +1,24 @@
+This fire alarm system has 4 main components to be executed.
+    1.RMI Sever
+    2.RMI Desktop Client
+    3.Rest API
+    4.Web Client
+
+Step 1 : Start Rest API 
+Step 2 : Start RMI Sever
+Step 3 : Run Desktop Client
+
+Desktop Client will ask password and username. you need to give correct values.
+Username : 1234
+password : 1234
+
+
+then Desktopclint dashboard will be show. 
+
+intha dashboard have some feture. such as
+    1. add new sensor to the room with floor number.
+        if press add sensor window will be show. after that we need to press  connect button to connect with client. 
+    2. show message. If alarm active message will send to that mail.
+        we can see mail. when we click show message button.
+    3. To update sensor alloction for press edit button. 
+    4. when we close the senser which is disconnect with dashboard. 
