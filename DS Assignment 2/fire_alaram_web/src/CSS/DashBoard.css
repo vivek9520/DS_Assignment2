@@ -1,0 +1,13 @@
+.heading{
+    font-weight: bold;
+    font-family: "Times New Roman" ;
+    font-size: 28px;
+    text-align: center;
+}
+.cardStyle{
+    padding: 5px;
+}
+
+.cardGap{
+    padding: 5px;
+}
